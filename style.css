@@ -11,3 +11,16 @@ header {
     margin-bottom: 20px;
 }
 
+.prima {
+    background-color: gold;
+    width: 100%;
+    height: 380px;
+    margin-bottom: 20px;
+}
+
+.seconda {
+    background-color: blue;
+    width: 100%;
+    height: 500px;
+    margin-bottom: 10px;
+}
