@@ -34,7 +34,7 @@ header {
 
 .sidesx {
     background-color: rgb(20, 247, 228);
-    width: 18%;
+    width: 19%;
     height: 400px;
     float: left;
 }
@@ -44,16 +44,23 @@ header {
     width: 60%;
     height: 400px;
     float: left;
-    margin: 0 2%;
+    margin: 0 1%;
 }
 
 .sidedx {
     background-color: rgb(20, 247, 228);
-    width: 18%;
+    width: 19%;
     height: 400px;
     float: right;
 }
 
 .clearfix {
     clear: both;
+}
+
+footer {
+    background-color: purple;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 15px;
 }
