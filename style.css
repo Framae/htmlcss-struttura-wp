@@ -31,3 +31,29 @@ header {
     height: 70px;
     margin-bottom: 15px;
 }
+
+.sidesx {
+    background-color: rgb(20, 247, 228);
+    width: 18%;
+    height: 400px;
+    float: left;
+}
+
+.inside {
+    background-color: rgb(20, 247, 228);
+    width: 60%;
+    height: 400px;
+    float: left;
+    margin: 0 2%;
+}
+
+.sidedx {
+    background-color: rgb(20, 247, 228);
+    width: 18%;
+    height: 400px;
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+}
